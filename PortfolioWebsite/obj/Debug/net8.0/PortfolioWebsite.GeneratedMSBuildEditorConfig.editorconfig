@@ -18,12 +18,36 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\Programs\programFiles\dotnet\PortfolioWebsite\PortfolioWebsite
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/Programs/programFiles/dotnet/PortfolioWebsite/PortfolioWebsite/Views/Home/AboutMe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dE1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Programs/programFiles/dotnet/PortfolioWebsite/PortfolioWebsite/Views/Home/Certifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDZXJ0aWZpY2F0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Programs/programFiles/dotnet/PortfolioWebsite/PortfolioWebsite/Views/Home/Education.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZHVjYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Programs/programFiles/dotnet/PortfolioWebsite/PortfolioWebsite/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Programs/programFiles/dotnet/PortfolioWebsite/PortfolioWebsite/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Programs/programFiles/dotnet/PortfolioWebsite/PortfolioWebsite/Views/Home/Project.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9qZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Programs/programFiles/dotnet/PortfolioWebsite/PortfolioWebsite/Views/Home/Skills.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTa2lsbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Programs/programFiles/dotnet/PortfolioWebsite/PortfolioWebsite/Views/Home/WorkExperience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXb3JrRXhwZXJpZW5jZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Programs/programFiles/dotnet/PortfolioWebsite/PortfolioWebsite/Views/Shared/Error.cshtml]
